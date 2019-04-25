@@ -26,7 +26,6 @@
  */
 
 #include "SQLiteWrapper.h"
-#include "JJHConfig.h"
 #include <iostream>
 
 SQLiteWrapper::SQLiteWrapper():db_(NULL){
